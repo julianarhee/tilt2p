@@ -1,6 +1,8 @@
 # Tilt 2p designs
 This repository contains design files for head-fixing rats under a tilting 2p microscope. The same appartus can be used for habituation. 
 
+![til](images/tilting.gif)
+
 ## Parts
 `dolphin`: Curved arm that screws into `dolphin_plate` to form a bracket that will hold the animal.
 
